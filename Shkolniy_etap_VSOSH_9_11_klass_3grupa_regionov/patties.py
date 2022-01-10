@@ -1,6 +1,3 @@
-import numpy
-
-
 def calculate_next_buy(todays_purchase):
     if todays_purchase == 1:
         return 2
