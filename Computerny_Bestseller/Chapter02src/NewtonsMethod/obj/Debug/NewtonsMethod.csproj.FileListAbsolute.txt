@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\NewtonsMethod\bin\Debug\NewtonsMethod.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\NewtonsMethod\bin\Debug\NewtonsMethod.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\NewtonsMethod\bin\Debug\NewtonsMethod.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\NewtonsMethod\obj\Debug\NewtonsMethod.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\NewtonsMethod\obj\Debug\NewtonsMethod.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\NewtonsMethod\obj\Debug\NewtonsMethod.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\NewtonsMethod\obj\Debug\NewtonsMethod.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\NewtonsMethod\obj\Debug\NewtonsMethod.pdb

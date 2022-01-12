@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveGridIntegration\bin\Debug\AdaptiveGridIntegration.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveGridIntegration\bin\Debug\AdaptiveGridIntegration.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveGridIntegration\bin\Debug\AdaptiveGridIntegration.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveGridIntegration\obj\Debug\AdaptiveGridIntegration.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveGridIntegration\obj\Debug\AdaptiveGridIntegration.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveGridIntegration\obj\Debug\AdaptiveGridIntegration.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveGridIntegration\obj\Debug\AdaptiveGridIntegration.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveGridIntegration\obj\Debug\AdaptiveGridIntegration.pdb

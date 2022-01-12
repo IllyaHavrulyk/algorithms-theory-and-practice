@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\RectangleRule\bin\Debug\RectangleRule.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\RectangleRule\bin\Debug\RectangleRule.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\RectangleRule\bin\Debug\RectangleRule.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\RectangleRule\obj\Debug\RectangleRule.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\RectangleRule\obj\Debug\RectangleRule.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\RectangleRule\obj\Debug\RectangleRule.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\RectangleRule\obj\Debug\RectangleRule.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\RectangleRule\obj\Debug\RectangleRule.pdb

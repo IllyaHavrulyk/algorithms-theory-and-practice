@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TwoDiceRolls\bin\Debug\TwoDiceRolls.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TwoDiceRolls\bin\Debug\TwoDiceRolls.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TwoDiceRolls\bin\Debug\TwoDiceRolls.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TwoDiceRolls\obj\Debug\TwoDiceRolls.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TwoDiceRolls\obj\Debug\TwoDiceRolls.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TwoDiceRolls\obj\Debug\TwoDiceRolls.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TwoDiceRolls\obj\Debug\TwoDiceRolls.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TwoDiceRolls\obj\Debug\TwoDiceRolls.pdb

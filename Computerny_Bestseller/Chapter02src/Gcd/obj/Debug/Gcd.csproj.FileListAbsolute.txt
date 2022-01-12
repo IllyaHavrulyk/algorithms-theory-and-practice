@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\Gcd\bin\Debug\Gcd.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\Gcd\bin\Debug\Gcd.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\Gcd\bin\Debug\Gcd.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\Gcd\obj\Debug\Gcd.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\Gcd\obj\Debug\Gcd.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\Gcd\obj\Debug\Gcd.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\Gcd\obj\Debug\Gcd.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\Gcd\obj\Debug\Gcd.pdb

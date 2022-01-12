@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TrapezoidRule\bin\Debug\TrapezoidRule.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TrapezoidRule\bin\Debug\TrapezoidRule.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TrapezoidRule\bin\Debug\TrapezoidRule.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TrapezoidRule\obj\Debug\TrapezoidRule.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TrapezoidRule\obj\Debug\TrapezoidRule.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TrapezoidRule\obj\Debug\TrapezoidRule.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TrapezoidRule\obj\Debug\TrapezoidRule.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\TrapezoidRule\obj\Debug\TrapezoidRule.pdb

@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\SieveOfEratosthenes\bin\Debug\SieveOfEratosthenes.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\SieveOfEratosthenes\obj\Debug\SieveOfEratosthenes.pdb

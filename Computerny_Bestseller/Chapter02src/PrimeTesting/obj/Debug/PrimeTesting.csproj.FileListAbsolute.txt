@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\PrimeTesting\bin\Debug\PrimeTesting.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\PrimeTesting\bin\Debug\PrimeTesting.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\PrimeTesting\bin\Debug\PrimeTesting.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\PrimeTesting\obj\Debug\PrimeTesting.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\PrimeTesting\obj\Debug\PrimeTesting.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\PrimeTesting\obj\Debug\PrimeTesting.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\PrimeTesting\obj\Debug\PrimeTesting.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\PrimeTesting\obj\Debug\PrimeTesting.pdb

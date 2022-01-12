@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\LinearCongruentialGenerator\bin\Debug\LinearCongruentialGenerator.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\LinearCongruentialGenerator\bin\Debug\LinearCongruentialGenerator.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\LinearCongruentialGenerator\bin\Debug\LinearCongruentialGenerator.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\LinearCongruentialGenerator\obj\Debug\LinearCongruentialGenerator.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\LinearCongruentialGenerator\obj\Debug\LinearCongruentialGenerator.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\LinearCongruentialGenerator\obj\Debug\LinearCongruentialGenerator.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\LinearCongruentialGenerator\obj\Debug\LinearCongruentialGenerator.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\LinearCongruentialGenerator\obj\Debug\LinearCongruentialGenerator.pdb

@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MidpointRectangleRule\bin\Debug\MidpointRectangleRule.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MidpointRectangleRule\obj\Debug\MidpointRectangleRule.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MidpointRectangleRule\obj\Debug\MidpointRectangleRule.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MidpointRectangleRule\obj\Debug\MidpointRectangleRule.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MidpointRectangleRule\bin\Debug\MidpointRectangleRule.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MidpointRectangleRule\bin\Debug\MidpointRectangleRule.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MidpointRectangleRule\obj\Debug\MidpointRectangleRule.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MidpointRectangleRule\obj\Debug\MidpointRectangleRule.pdb

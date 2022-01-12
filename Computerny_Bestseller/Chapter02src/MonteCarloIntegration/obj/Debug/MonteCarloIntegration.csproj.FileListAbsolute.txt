@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MonteCarloIntegration\bin\Debug\MonteCarloIntegration.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MonteCarloIntegration\bin\Debug\MonteCarloIntegration.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MonteCarloIntegration\bin\Debug\MonteCarloIntegration.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MonteCarloIntegration\obj\Debug\MonteCarloIntegration.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MonteCarloIntegration\obj\Debug\MonteCarloIntegration.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MonteCarloIntegration\obj\Debug\MonteCarloIntegration.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MonteCarloIntegration\obj\Debug\MonteCarloIntegration.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\MonteCarloIntegration\obj\Debug\MonteCarloIntegration.pdb

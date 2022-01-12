@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveMidpointIntegration\bin\Debug\AdaptiveMidpointIntegration.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveMidpointIntegration\bin\Debug\AdaptiveMidpointIntegration.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveMidpointIntegration\bin\Debug\AdaptiveMidpointIntegration.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveMidpointIntegration\obj\Debug\AdaptiveMidpointIntegration.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveMidpointIntegration\obj\Debug\AdaptiveMidpointIntegration.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveMidpointIntegration\obj\Debug\AdaptiveMidpointIntegration.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveMidpointIntegration\obj\Debug\AdaptiveMidpointIntegration.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveMidpointIntegration\obj\Debug\AdaptiveMidpointIntegration.pdb

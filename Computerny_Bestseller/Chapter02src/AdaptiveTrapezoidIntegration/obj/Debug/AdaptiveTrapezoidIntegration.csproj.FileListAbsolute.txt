@@ -1,0 +1,8 @@
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveTrapezoidIntegration\bin\Debug\AdaptiveTrapezoidIntegration.exe.config
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveTrapezoidIntegration\obj\Debug\AdaptiveTrapezoidIntegration.Form1.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveTrapezoidIntegration\obj\Debug\AdaptiveTrapezoidIntegration.Properties.Resources.resources
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveTrapezoidIntegration\obj\Debug\AdaptiveTrapezoidIntegration.csproj.GenerateResource.Cache
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveTrapezoidIntegration\bin\Debug\AdaptiveTrapezoidIntegration.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveTrapezoidIntegration\bin\Debug\AdaptiveTrapezoidIntegration.pdb
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveTrapezoidIntegration\obj\Debug\AdaptiveTrapezoidIntegration.exe
+D:\Rod\Writing\Books\Algorithms\Src\612101c02src\AdaptiveTrapezoidIntegration\obj\Debug\AdaptiveTrapezoidIntegration.pdb
